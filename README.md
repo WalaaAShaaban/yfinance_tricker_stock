@@ -1,0 +1,1 @@
+# yfinance_tricker_stock
